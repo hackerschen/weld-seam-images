@@ -1,0 +1,1 @@
+# weld-seam-images
